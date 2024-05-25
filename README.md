@@ -26,7 +26,7 @@ Follow these steps to set up the project on your local machine for development a
 3. Install the necessary dependencies: `npm install`
 4. Launch the development server: `npm start`
 
-The app will be accessible at `http://localhost:3000` in your preferred web browser.
+The app will be accessible at `http://localhost:5173` in your preferred web browser.
 
 ## Contributing
 
